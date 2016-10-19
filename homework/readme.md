@@ -126,4 +126,4 @@ CODE
 ```
 DIAGRAM
 
-<img src = " https://github.com/Siriphornyui/OOAD-WEEK08/blob/master/onlinrstore.png">
+<img src = "https://github.com/Siriphornyui/OOAD-WEEK08/blob/master/onlinrstore.png">
